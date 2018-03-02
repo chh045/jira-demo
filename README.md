@@ -3,3 +3,5 @@
 The first line of content in ReadME.md
 
 Testing Jira smart commit
+
+Created new branch "Avatar"
